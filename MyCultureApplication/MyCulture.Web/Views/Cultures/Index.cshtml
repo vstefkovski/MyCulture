@@ -1,0 +1,38 @@
+﻿@model List<MyCulture.Domain.DomainModels.Culture>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="m-3">
+        <a class="btn btn-success" asp-controller="Cultures" asp-action="Create">Add new Culture</a>
+    </div>
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        var item = Model[i];
+        if (i % 3 == 0)
+        {
+            @:<div class="row">
+            }
+            <div class="col-md-3 m-4">
+                <div class="card" style="width:18rem; height:30rem;">
+                    <img class="card-img-top" style="height:50%" src="@item.CultureImage" alt="Image for product" />
+                    <div class="card-body">
+                        <h5 class="card-title">@item.CultureName</h5>
+                        <p class="card-text">@item.CultureDescription</p>
+                        <p><b>Price: @item.CulturePrice Ден</b></p>
+                    </div>
+                    <div class="card-footer">
+                        <a asp-controller="Cultures" asp-action="AddCultureToCart" asp-route-id="@item.Id" class="btn btn-info">Add to Cart</a>
+                        <a asp-controller="Cultures" asp-action="Edit" class="btn btn-secondary" asp-route-id="@item.Id">Edit</a>
+                    </div>
+                </div>
+            </div>
+            if (i % 3 == 2)
+            {
+            @:</div>
+        }
+    }
+</div>

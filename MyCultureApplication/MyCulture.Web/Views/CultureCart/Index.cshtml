@@ -1,0 +1,60 @@
+﻿@model MyCulture.Domain.DTO.CultureCartDto
+
+
+
+<h1>Culture cart info</h1>
+
+<div class="container">
+
+
+<div class="row m-4">
+    <a asp-controller="CultureCart" asp-action="OrderNow" class="btn btn-success">Order Now</a>
+</div>
+
+<div class="row m-4">
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Culture Name</th>
+                <th scope="col">Quantity</th>
+                <th scope="col">Culture Price</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Cultures.Count == 0)
+            {
+                <tr>
+                    <td colspan="5">No active Products</td>
+                </tr>
+            }
+            else
+            {
+                @for (int i = 0; i < Model.Cultures.Count; i++)
+                {
+                    var item = Model.Cultures[i];
+
+                    <tr>
+                        <th scope="row">@(i + 1)</th>
+                        <td>@item.Culture.CultureName</td>
+                        <td>@item.Quantity</td>
+                        <td>@item.Culture.CulturePrice</td>
+                        <td><a asp-controller="CultureCart" asp-action="DeleteFromCultureCart" asp-route-id="@item.CultureId" class="btn btn-danger">Delete From CultureCart</a></td>
+                    </tr>
+                }
+            }
+        </tbody>
+        <tfoot class="thead-dark">
+            <tr>
+                <th scope="col">TotalPrice:</th>
+                <th scope="col"></th>
+                <th scope="col"></th>
+                <th scope="col"></th>
+                <th scope="col">@Model.TotalPrice</th>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+
+</div>
