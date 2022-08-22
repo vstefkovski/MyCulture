@@ -1,0 +1,10 @@
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Domain\bin\Debug\netcoreapp3.1\MyCulture.Domain.deps.json
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Domain\bin\Debug\netcoreapp3.1\MyCulture.Domain.dll
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Domain\bin\Debug\netcoreapp3.1\MyCulture.Domain.pdb
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Domain\obj\Debug\netcoreapp3.1\MyCulture.Domain.csproj.AssemblyReference.cache
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Domain\obj\Debug\netcoreapp3.1\MyCulture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Domain\obj\Debug\netcoreapp3.1\MyCulture.Domain.AssemblyInfoInputs.cache
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Domain\obj\Debug\netcoreapp3.1\MyCulture.Domain.AssemblyInfo.cs
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Domain\obj\Debug\netcoreapp3.1\MyCulture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Domain\obj\Debug\netcoreapp3.1\MyCulture.Domain.dll
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Domain\obj\Debug\netcoreapp3.1\MyCulture.Domain.pdb

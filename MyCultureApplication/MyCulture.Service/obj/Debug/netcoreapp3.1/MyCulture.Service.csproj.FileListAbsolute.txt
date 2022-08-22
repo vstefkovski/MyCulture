@@ -1,0 +1,15 @@
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Service\bin\Debug\netcoreapp3.1\MyCulture.Service.deps.json
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Service\bin\Debug\netcoreapp3.1\MyCulture.Service.dll
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Service\bin\Debug\netcoreapp3.1\MyCulture.Service.pdb
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Service\bin\Debug\netcoreapp3.1\MyCulture.Domain.dll
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Service\bin\Debug\netcoreapp3.1\MyCulture.Repository.dll
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Service\bin\Debug\netcoreapp3.1\MyCulture.Domain.pdb
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Service\bin\Debug\netcoreapp3.1\MyCulture.Repository.pdb
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Service\obj\Debug\netcoreapp3.1\MyCulture.Service.csproj.AssemblyReference.cache
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Service\obj\Debug\netcoreapp3.1\MyCulture.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Service\obj\Debug\netcoreapp3.1\MyCulture.Service.AssemblyInfoInputs.cache
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Service\obj\Debug\netcoreapp3.1\MyCulture.Service.AssemblyInfo.cs
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Service\obj\Debug\netcoreapp3.1\MyCulture.Service.csproj.CoreCompileInputs.cache
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Service\obj\Debug\netcoreapp3.1\MyCulture.Service.csproj.CopyComplete
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Service\obj\Debug\netcoreapp3.1\MyCulture.Service.dll
+C:\Users\Vojdan\Source\Repos\MyCulture\MyCultureApplication\MyCulture.Service\obj\Debug\netcoreapp3.1\MyCulture.Service.pdb
